@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <video class="vp-v" src="{{ src }}" custom-cache="{{false}}" autoplay
+         bindtimeupdate="timeupdate"></video>
+</view>
+
