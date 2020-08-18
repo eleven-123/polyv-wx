@@ -1,8 +1,8 @@
 # polyv-wx
-保利威点播观看小程序
+保利威点播观看小程序 - 文档说明
+https://dev.polyv.net/2018/videoproduct/v-sdk/vod-wxa/
 
-### https://dev.polyv.net/2018/videoproduct/v-sdk/vod-wxa/
-
+### 以上代码是针对微信小程序开发
 
 ### 在uniapp框架中使用-微信自定义组件引用（wxcomponents）
 将pages/index及polyv.js文件放入wxcomponents/polyv 中，
